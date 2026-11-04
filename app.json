@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Actividad6",
-    "slug": "Actividad6",
+    "name": "Luxor Collection",
+    "slug": "LuxorCollection",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,6 +10,7 @@
       "supportsTablet": true
     },
     "android": {
+      "softwareKeyboardLayoutMode": "resize",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -19,7 +20,11 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./public/logo192.png"
+    },
+    "plugins": [
+      "expo-status-bar",
+      "expo-sharing"
+    ]
   }
 }
