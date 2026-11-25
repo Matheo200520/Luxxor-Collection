@@ -166,8 +166,6 @@ Luxxor-Collection/
 ├── app.json                   # Configuración de Expo y permisos
 ├── package.json               # Dependencias y comandos npm
 ├── .env.example               # Plantilla de configuración sin credenciales
-├── DOCUMENTACION_CODIGO.md    # Explicación ampliada de módulos y flujos
-├── Guion_Exposicion_Luxor.md  # Guion de presentación del proyecto
 ├── assets/                    # Iconos y recursos de la app
 └── public/                    # Plantilla, manifest e iconos para web
 ```
