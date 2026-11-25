@@ -9,7 +9,7 @@ Aplicación para Android, iOS y navegador web construida con **React Native, Exp
 
 ## 👥 Autoría y propósito
 
-- **Integrantes:** Matheo López Caicedo y Brayan David Hernández Ruiz — Equipo SynCup.
+- **Integrantes:** Matheo López Caicedo y Brayan David Hernández Ruiz.
 - **Objetivo:** ofrecer una experiencia sencilla para consultar y administrar un catálogo de joyería y perfumería desde móvil o web.
 - **Recorrido principal:** entrar al catálogo, explorar o filtrar productos y registrar una pieza con foto desde **Añadir**.
 - **Repositorio:** [Dav09z10/Luxxor-Collection](https://github.com/Dav09z10/Luxxor-Collection).
