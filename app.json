@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Actividad6",
-    "slug": "Actividad6",
+    "name": "Luxor Collection",
+    "slug": "LuxorCollection",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +19,20 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./public/logo192.png"
+    },
+    "plugins": [
+      "expo-status-bar",
+      "expo-sharing",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Luxor Collection necesita acceder a tus fotos para asignarlas a productos.",
+          "cameraPermission": "Luxor Collection necesita acceder a la cámara para registrar productos.",
+          "microphonePermission": false
+        }
+      ],
+      "expo-mail-composer"
+    ]
   }
 }
