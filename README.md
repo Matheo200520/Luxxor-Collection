@@ -7,7 +7,7 @@ Aplicación para Android, iOS y navegador web construida con **React Native, Exp
 
 ---
 
-## 👥 Autoría y propósito
+##  Autoría y propósito
 
 - **Integrantes:** Matheo López Caicedo y Brayan David Hernández Ruiz.
 - **Objetivo:** ofrecer una experiencia sencilla para consultar y administrar un catálogo de joyería y perfumería desde móvil o web.
